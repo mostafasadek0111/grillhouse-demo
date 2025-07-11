@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grill House - مطعم مشاوي</title>
+  <style>
+    body { font-family: 'Arial', sans-serif; background: #fff9f3; color: #333; margin: 0; padding: 0; }
+    header, section, footer { padding: 20px; text-align: center; }
+    h1, h2 { color: #b33; }
+    button { padding: 10px 20px; background-color: #b33; color: #fff; border: none; border-radius: 5px; cursor: pointer; }
+    button:hover { background-color: #922; }
+    img { max-width: 200px; border-radius: 10px; margin: 10px; }
+    ul { list-style-type: none; padding: 0; }
+    li { margin: 5px 0; }
+    footer p { margin: 5px 0; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>مرحبًا بك في Grill House</h1>
+    <p>أفضل مشاوي على الفحم… طعم هيخليك ترجع تاني!</p>
+    <button>اطلب الآن</button>
+  </header>
+
+  <section>
+    <h2>منيو الصور</h2>
+    <img src="https://via.placeholder.com/200x150?text=كفتة" alt="كفتة مشوية">
+    <img src="https://via.placeholder.com/200x150?text=شيش+طاووق" alt="شيش طاووق">
+    <img src="https://via.placeholder.com/200x150?text=ريش+ضاني" alt="ريش ضاني">
+  </section>
+
+  <section>
+    <h2>المنيو</h2>
+    <ul>
+      <li>وجبة كفتة - 75 جنيه</li>
+      <li>وجبة ميكس جريل - 120 جنيه</li>
+      <li>شيش طاووق - 85 جنيه</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>قالوا عنّا</h2>
+    <p>“أحلى مشويات كلتها، وسعرهم ممتاز!” – كريم</p>
+    <p>“الخدمة سريعة والمكان نضيف جدًا” – نادين</p>
+  </section>
+
+  <footer>
+    <h2>زورونا أو اطلب دلوقتي</h2>
+    <p>📍 العنوان: شارع الثورة، مصر الجديدة</p>
+    <p>📞 0123-456-789</p>
+    <p>📸 تابعنا على إنستجرام: @grillhouse.eg</p>
+  </footer>
+
+</body>
+</html>
